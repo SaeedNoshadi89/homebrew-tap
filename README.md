@@ -2,8 +2,11 @@
 
 ```sh
 brew tap SaeedNoshadi89/tap
+brew trust --formula saeednoshadi89/tap/agentmeter
 brew install agentmeter
 ```
+
+Or in one step, which trusts it for you: `brew install SaeedNoshadi89/tap/agentmeter`
 
 | Formula | Description |
 | --- | --- |
