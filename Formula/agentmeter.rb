@@ -1,8 +1,8 @@
 class Agentmeter < Formula
   desc "Usage limits left for your coding agents, with a Rex popup"
   homepage "https://github.com/SaeedNoshadi89/agentmeter"
-  url "https://github.com/SaeedNoshadi89/agentmeter/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "87e4508584f8a2d370aceda3a2abdf52ea2143803b1a30636b234921dde4f161"
+  url "https://github.com/SaeedNoshadi89/agentmeter/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "3e2cea76966c3f0c5c97de2e7912214978563a1b5adaab6fdbc362894070c9c3"
   license "MIT"
 
   def install
