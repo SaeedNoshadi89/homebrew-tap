@@ -1,7 +1,8 @@
 # SaeedNoshadi89/tap
 
 ```sh
-brew install SaeedNoshadi89/tap/agentmeter
+brew tap SaeedNoshadi89/tap
+brew install agentmeter
 ```
 
 | Formula | Description |
