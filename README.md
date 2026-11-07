@@ -8,6 +8,8 @@ brew install agentmeter
 
 Or in one step, which trusts it for you: `brew install SaeedNoshadi89/tap/agentmeter`
 
+Then run `agentmeter setup`.
+
 | Formula | Description |
 | --- | --- |
 | [agentmeter](https://github.com/SaeedNoshadi89/agentmeter) | Usage limits left for your coding agents (Claude Code, Codex, OpenCode, ...), with a Rex popup |

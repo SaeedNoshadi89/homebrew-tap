@@ -11,8 +11,8 @@ class Agentmeter < Formula
 
   def caveats
     <<~EOS
-      To add the Rex popup (Shift+Cmd+U), run:
-        agentmeter setup-rex
+      To add the Rex popup and the Claude Code status line, run:
+        agentmeter setup
     EOS
   end
 
